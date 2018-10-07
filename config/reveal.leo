@@ -24,6 +24,18 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181007231816.1" a="E"><vh>w1</vh>
+<v t="leo.20181007231816.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181007231851.1" a="E"><vh>w2</vh>
+<v t="leo.20181007231851.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181007231909.1" a="E"><vh>w3</vh>
+<v t="leo.20181007231909.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181007231918.1" a="E"><vh>w4</vh>
+<v t="leo.20181007231918.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -129,10 +141,10 @@ vertical: body pane on the botton</t>
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623221](https://github.com/mdecadp2018/site-40623221)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 分組網誌](https://localhost:8443/edit_page)
 
 
 </t>
@@ -326,5 +338,60 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181007231816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181007231816.2"># week1
+
+
+ * 領取分組作業倉儲以及註冊onshape帳號。
+
+
+
+</t>
+<t tx="leo.20181007231851.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181007231851.2">#week2
+
+
+  * 閱讀onshape 操作手冊及確認是否領到正確對應學號的倉儲。
+</t>
+<t tx="leo.20181007231909.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181007231909.2">#放假--</t>
+<t tx="leo.20181007231918.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181007231918.2">#試著操作onshape製圖
+
+*伸長
+*旋轉
+*擠出</t>
 </tnodes>
 </leo_file>
