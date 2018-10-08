@@ -15,8 +15,8 @@
 </v>
 <v t="yen.20170108171733.1" a="E"><vh>@path ../</vh>
 <v t="leo.20180115150519.1"><vh>@edit index.html</vh></v>
-<v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
+<v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="leo.20170908162839.1" a="E"><vh>沒有 disqus 論壇</vh>
 <v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
 </v>
@@ -69,7 +69,10 @@
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
+<v t="leo.20181008105725.1"><vh>@edit 20180917.md</vh></v>
+<v t="leo.20181008105727.1"><vh>@edit 20180924.md</vh></v>
+<v t="leo.20181008105730.1"><vh>@edit 20181001.md</vh></v>
 </v>
 </v>
 </v>

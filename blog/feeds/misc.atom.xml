@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecourse.github.io/2018fall/blog/" rel="alternate"></link><link href="https://mdecourse.github.io/2018fall/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecourse.github.io/2018fall/blog/</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="https://mdecourse.github.io/2018fall/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecourse.github.io,2018-09-10:/2018fall/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623221/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623221/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623221/blog/</id><updated>2018-10-01T11:00:00+08:00</updated><entry><title>2018 Fall 第四週</title><link href="https://mdecadp2018.github.io/site-40623221/blog/2018-Fall-w4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623221/blog/2018-Fall-w4.html</id><summary type="html">&lt;p&gt;期中作業
+</summary><content type="html">&lt;p&gt;期中作業
+&lt;/p&gt;
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;閱讀onshape操作手冊以及錄製影片。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第三週</title><link href="https://mdecadp2018.github.io/site-40623221/blog/2018-Fall-w3.html" rel="alternate"></link><published>2018-09-24T11:00:00+08:00</published><updated>2018-09-24T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623221/blog/2018-Fall-w3.html</id><summary type="html">&lt;p&gt;中秋放假&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;中秋放假&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;自主學習onshape操作手冊。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第二週</title><link href="https://mdecadp2018.github.io/site-40623221/blog/2018-Fall-w2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-17:/site-40623221/blog/2018-Fall-w2.html</id><summary type="html">&lt;p&gt;領取協同倉儲以及註冊onshape帳號&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;領取協同倉儲以及註冊onshape帳號&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;領取倉儲之後,將倉儲clone至個人隨身碟以便作業。\&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623221/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623221/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -11,4 +25,9 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 第一週</title><link href="https://mdecadp2018.github.io/site-40623221/blog/2018-Fall-w1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623221/blog/2018-Fall-w1.html</id><summary type="html">&lt;p&gt;2018/09/10-----介紹課程大綱&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018/09/10-----介紹課程大綱&lt;/p&gt;
+
+
+&lt;h2&gt;課程內容&lt;/h2&gt;
+&lt;p&gt;把學校當作餐廳,將每一道菜都吃過才知道好不好吃,多學習英文。&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
